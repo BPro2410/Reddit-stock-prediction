@@ -7,7 +7,7 @@
 
 This project work deals with scraping the Reddit API in order to get information about the most discussed S&P 500 stocks as well as creating an early signal model for the three most discussed stocks.
 
-In order to get information about the structure, data and methodology of this project please have a look at the corresponding project report (PFF2_Project_Report_Prostmaier_12004113.pdf)!
+In order to get information about the structure, data and methodology of this project please have a look at the corresponding project report (PFF2_Project_presentation.pdf)!
 
 This project is divided into two separate classes. Each class stands individually and can be used for separate analysis if needed. Class description:
 
